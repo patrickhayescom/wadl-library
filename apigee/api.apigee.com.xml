@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- NOTE: THIS DOCUMENT DESCRIBES APIS FOR A LEGACY PRODUCT. IT IS OLD ENOUGH THAT IT WILL NOT PASS THE TO-GO CONSOLE VALIDATOR, AND THERE ARE NO PLANS TO UPDATE THE BELOW DESCRIPTION SINCE THOSE APIS ARE NOT PERTINENT. -->
 <application xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:apigee="http://api.apigee.com/wadl/2010/07/" xmlns="http://wadl.dev.java.net/2009/02" xsi:schemaLocation="http://wadl.dev.java.net/2009/02 http://apigee.com/schemas/wadl-schema.xsd http://api.apigee.com/wadl/2010/07/ http://apigee.com/schemas/apigee-wadl-extensions.xsd">
 
     <resources base="http://api.apigee.com/v1">
